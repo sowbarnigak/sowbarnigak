@@ -1,9 +1,9 @@
 <h1>Hey there! I'm Sowbarniga</h1>
 <h2>An Aspiring Electronics & Control Engineer </h2>
 
-🔭 I’m currently working on **Web Designing**
+🔭 I’m currently working on **MATLAB**
 
-🌱 I’m currently learning **Python Libraries for AI/ML, MATLAB & Simulink**
+🌱 I’m currently learning **Python Libraries for AI/ML & Simulink**
 
 <!-- 👯 I’m looking to collaborate on ... -->
 
