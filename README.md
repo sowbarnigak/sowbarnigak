@@ -16,12 +16,6 @@
 <br>
 <table>
   <tr>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
     <td align="center" width="96">
       <a>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
