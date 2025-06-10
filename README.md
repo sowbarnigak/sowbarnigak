@@ -18,12 +18,6 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a>
         <img src="https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png" width="48" height="48" alt="MATLAB" />
       </a>
       <br>MATLAB
